@@ -1,0 +1,15 @@
+{
+  "name": "kyahaal-proto",
+  "version": "0.0.1",
+  "description": "All the proto files required for Kyahaal",
+  "main": "index.js",
+  "author": "devaryakumar",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ts-proto": "^1.136.1"
+  },
+  "devDependencies": {
+    "proto": "https://github.com/devaryakjha/kyahaal-proto"
+  }
+}
